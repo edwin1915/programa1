@@ -11,5 +11,8 @@ public class Programa1 {
         int suma =a;
         System.out.println("la suma es:"+suma);
     }
+    public void metodo(){
+        System.out.println("esto es un metodo");
+    }
     }
 
